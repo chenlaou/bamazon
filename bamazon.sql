@@ -25,3 +25,4 @@ VALUES ('Amazon Echo', 'Electronics', 49.99, 500),
         ('23andME DNA Test', 'Misc', 130.99, 500),
         ('Amazon Cloud Camera', 'Electronics', 119.99, 500);
     
+    
